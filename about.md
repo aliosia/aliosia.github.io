@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Ali Osia
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Ph.D. candidate in artificial intelligence at [Sharif University of Technology](http://www.en.sharif.edu/){:target="_blank"}.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+My research interest are in Statistical Machine Learning, Deep Learning and Image Processing.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[osia@ce.sharif.edu](mailto:osia@ce.sharif.edu)
+
+
