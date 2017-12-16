@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ali Osia
+title: Publications
 permalink: /publications/
 ---
 
