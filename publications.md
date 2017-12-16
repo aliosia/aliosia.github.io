@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## [Google Scholar Profile](http://scholar.google.com/citations?user=Y8Zt1R4AAAAJ&hl=en&authuser=1&hl=en){:target="_blank"}
-## [GitHub code](https://github.com/aliosia/){:target="_blank"}
+
 
 ### 2017:
 
