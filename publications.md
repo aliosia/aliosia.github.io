@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2018:
 
+* Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, *"Private and Scalable Personal Data Analytics Using Hybrid Edge-to-Cloud Deep Learning"*, IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. [(paper)](files/IEEE_Computer_2018.pdf)
+
 * Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, *"Deep Private-Feature Extraction"*, Available on arXiv, February 2018. ([paper](https://arxiv.org/pdf/1802.03151), [code](https://github.com/aliosia/DPFE))
 
 
