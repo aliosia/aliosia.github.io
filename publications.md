@@ -6,18 +6,20 @@ permalink: /publications/
 
 ## [Google Scholar Profile](http://scholar.google.com/citations?user=Y8Zt1R4AAAAJ&hl=en&authuser=1&hl=en)
 
+
+
 ### 2018:
+
+* Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, *"Deep Private-Feature Extraction"*, IEEE Transactions on Knowledge and Data Engineering (TKDE), October 2018. ([paper](https://ieeexplore.ieee.org/document/8515092), [code](https://github.com/aliosia/DPFE))
 
 * Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, *"Private and Scalable Personal Data Analytics Using Hybrid Edge-to-Cloud Deep Learning"*, IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. [(paper)](files/IEEE_Computer_2018.pdf)
 
-* Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, *"Deep Private-Feature Extraction"*, Available on arXiv, February 2018. ([paper](https://arxiv.org/pdf/1802.03151), [code](https://github.com/aliosia/DPFE))
 
 
 ### 2017:
 
-[//]: <> ()*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, *"Privacy-Preserving Deep Inference for Rich User Data on The Cloud"*, Available on ArXiv, October 2017\. ([paper](https://arxiv.org/abs/1710.01727), [code](https://github.com/aliosia/DeepPrivInf2017))
-
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Sina Sajadmanesh, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, *"A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics"*, Available on ArXiv, March 2017\. ([paper](https://arxiv.org/abs/1703.02952), [code](https://github.com/aliosia/DeepPrivInf2017))
+
 
 ### 2016:
 
