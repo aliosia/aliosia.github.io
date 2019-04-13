@@ -9,11 +9,11 @@ permalink: /publications/
 
 ### 2019:
 
-* Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R Rabiee, Deniz Gündüz, *"Privacy Against Brute-Force Inference Attacks"*, Available on ArXiv, February 2019. ([paper](https://arxiv.org/pdf/1902.00329))
+* Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R Rabiee, Deniz Gündüz, *"Privacy Against Brute-Force Inference Attacks"*, IEEE International Symposium on Information Theory (ISIT), July 2019. ([paper](https://arxiv.org/pdf/1902.00329))
+
+* Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, *"Deep Private-Feature Extraction"*, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. ([paper](https://ieeexplore.ieee.org/document/8515092), [code](https://github.com/aliosia/DPFE))
 
 ### 2018:
-
-* Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, *"Deep Private-Feature Extraction"*, IEEE Transactions on Knowledge and Data Engineering (TKDE), October 2018. ([paper](https://ieeexplore.ieee.org/document/8515092), [code](https://github.com/aliosia/DPFE))
 
 * Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, *"Private and Scalable Personal Data Analytics Using Hybrid Edge-to-Cloud Deep Learning"*, IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. [(paper)](files/IEEE_Computer_2018.pdf)
 
